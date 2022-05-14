@@ -1,0 +1,197 @@
+body {
+    background-image: url('images/wave.png');
+    font-family: 'Source Code Pro', monospace;
+}
+
+.navbar {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color:#20293F;
+    border-radius: 25px;
+  }
+  
+.navbar_li {
+    float: left;
+  }
+  
+.navbar_li a {
+    display: block;
+    color: #F6F4E7;
+    text-align: center;
+    padding: 20px 60px;
+    text-decoration: none;
+    border-radius: 20px;
+  }
+  
+.navbar_li a:hover {
+    
+    background-color: #4D8E96;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+
+  .box-img{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+  }
+
+.box{
+  width: 450px;
+  background: rgba(0, 0, 0, 0.87);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  border-radius: 25px;
+}
+
+.box img{
+    border-radius: 50%;
+}
+
+.box h1{
+  font-size: 40px;
+  font-weight: 100;
+}
+.box h1:hover{
+    font-size: 40px;
+    font-weight: 100;
+  }
+.box h5{
+  font-size: 20px;
+  font-weight: 100;
+}
+.box p{
+  text-align: center;
+
+}
+
+.box a{
+    color: white;
+}
+
+.box a:hover {
+    color: #4D8E96;
+  }
+
+.active {
+    background-color: #4D8E96;
+}
+
+
+
+.box2{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.87);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    border-radius: 25px;
+  }
+  
+  .box2 img {
+      padding: 50px;
+  }
+
+  .box2 {
+      margin-top: 200px;
+  }
+  
+  .box2 h1{
+    font-size: 40px;
+    font-weight: 100;
+  }
+
+  .box2 h4{
+    font-size: 20px;
+    font-weight: 100;
+  }
+
+  .box3{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.87);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    border-radius: 25px;
+  }
+  
+
+  .box3 {
+      margin-top: 150px;
+  }
+  
+  .box3 h1{
+    font-size: 40px;
+    font-weight: 100;
+  }
+
+  .box3 h4{
+    font-size: 20px;
+    font-weight: 100;
+  }
+  .box3 p{
+    text-align: center;
+  
+  }
+  
+table,th,td {
+    border:3px solid #4D8E96;
+    text-align: center;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box4{
+    width: 1000px;
+    background: rgba(0, 0, 0, 0.87);
+    padding: 3px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    border-radius: 25px;
+    margin-top: 150px;
+  }
+
+
+.box4 h1{
+  font-size: 40px;
+  font-weight: 100;
+}
+
+.box4 {
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.box4 .anime {
+    list-style: none;
+    display: inline;
+    
+}
+
+.box4 img {
+    border-radius: 15px;
+    margin: 20px;
+    border: solid 3px #20293F;
+}
+
+.box4 img:hover {
+    border-color: #4D8E96;
+}
+
+.box4 .anime_lst{
+    text-align: left;
+    padding-left: 400px;
+}
+
